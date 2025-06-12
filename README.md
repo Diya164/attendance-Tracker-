@@ -1,3 +1,4 @@
 # attendance-Tracker-
-The Smart Attendance system! Leveraging OpenCV and Machine learning, it transform attendance management 
+The Smart Attendance system! Leveraging OpenCV and Machine learning, it transform attendance management
+<br>
 Author - Diya parmar
